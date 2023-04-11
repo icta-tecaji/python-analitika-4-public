@@ -1,4 +1,4 @@
-# Python osnovni tečaj
+# Python Deep Learning tečaj
 
 ## Osnovne informacije
 
