@@ -9,7 +9,7 @@ Predavatelja:
 * **Gregor Balkovec** (<gregor.balkovec@ltfe.org>)
 * **Anže Glušič** (<anze.glusic@ltfe.org>)
 
-1 termin poteka 4 ure, 16:00 - 20:00. Vmes bomo imel nekaj pavzic.
+1 termin poteka 4 ure, 16:00 - 20:00. Vmes bomo imeli nekaj pavzic.
 
 ## Termini
 
@@ -17,13 +17,13 @@ Predavatelja:
 | :---: | :---: | :---: | :---: |
 | 1. | 17.4.2023 | Pon | Predavanje 1 |
 | 2. | 24.4.2023 | Pon | Predavanje 2 | 
-| 3. | --1.5.2023-- | --Pon-- | Predavanje 3 Praznik - Zamaknemo?| 
-| 4. | 08.5.2023 | Pon | Predavanje 4 |
-| 5. | 15.5.2023 | Pon | Predavanje 5 - Zamaknemo? |
-| 6. | 22.5.2023 | Pon | Predavanje 6 |
-| 7. | 29.5.2023 | Pon | Izpit |
-| . | 5.6.2023 | Pon |  |
-| . | 12.6.2023 | Pon |  |
+| / | ~~1.5.2023~~ | ~~Pon~~ | / | 
+| 3. | 08.5.2023 | Pon | Predavanje 3 |
+| / | ~~15.5.2023~~ | ~~Pon~~ | / |
+| 4. | 22.5.2023 | Pon | Predavanje 4 |
+| 5. | 29.5.2023 | Pon | Predavanje 5 |
+| 6. | 5.6.2023 | Pon | Predavanje 6 |
+| 7. | 12.6.2023 | Pon | Izpit |
 
 
 ## Izpit
