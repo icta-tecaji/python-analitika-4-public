@@ -1,0 +1,5 @@
+gymnasium[toy-text]
+matplotlib
+tensorflow
+stable_baselines3[extra]>=2.0.0a9
+gym
