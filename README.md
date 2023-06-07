@@ -1,4 +1,4 @@
-# Python Deep Learning tečaj
+# Globoko učenje v Python-u
 
 ## Osnovne informacije
 
